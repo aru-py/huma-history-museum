@@ -57,6 +57,12 @@ Once data is collected, it is prepared to be used in production. Run `python run
 
 For better rendering performance, pictures for each event are placed on a single image, or sprite sheet. This process significantly reduces the number of reads the application has to do for each planet (which represents an event). `generate.py` handles this conversion.
 
+| Input | Output |
+| ------|------------ |
+![input](docs/41120_source.png)  | ![output](docs/41120_output.jpeg)
+
+
+
 ![planet](docs/planet_spinning.gif)
 
 
