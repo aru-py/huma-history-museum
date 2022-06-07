@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Step back into time and relive history’s most poignant moments. [Huma](https://aru.ai/huma) is a three-dimensional history museum in your browser. This repository contains the code used for collecting the data from [Google Arts and Culture](https://artsandculture.google.com/category/event).
+Welcome traveler! Huma is a four-dimensional museum where you can explore the defining events of humanity’s history. Each of several hundred planets correspond to a major historical event, including the World Wars, the French Revolution, and the Apollo Moon Landing. Time extends along one axis and geographical space on the other two. This project was built with [Unity](https://unity.com/) using data collected from [Google Arts and Culture](https://artsandculture.google.com/). The idea for Huma was inspired by the [Tesseract](https://interstellarfilm.fandom.com/wiki/Tesseract) from Interstellar.
 
 ![huma](docs/huma.gif)
 
@@ -59,10 +59,11 @@ For better rendering performance, pictures for each event are placed on a single
 
 | Input | Output |
 | ------|------------ |
-![input](docs/41120_source.png)  | ![output](docs/41120_output.png)
+![input](docs/41120_source.png)  | ![output](docs/41120_output.jpeg)
 
 
 
+![planet](docs/planet_spinning.gif)
 
 
 
