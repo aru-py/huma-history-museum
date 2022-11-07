@@ -59,11 +59,5 @@ For better rendering performance, pictures for each event are placed on a single
 
 | Input | Output |
 | ------|------------ |
-![input](docs/41120_source.png)  | ![output](docs/41120_output.jpeg)
-
-
-
-![planet](docs/planet_spinning.gif)
-
-
+![input](docs/41120_source.png)  | ![output](docs/41120_output.png)
 
